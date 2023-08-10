@@ -12,3 +12,4 @@ while True:                                                 # Bucle while verdad
         print("EL NUMERO ES MAS BAJO")
     if num == user:                         # Si el numero es igual a user sale el bucle.
         print(f" el numero es {num} adivinaste el numero")
+        break
