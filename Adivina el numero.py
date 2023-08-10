@@ -11,4 +11,4 @@ while True:                                                 # Bucle while verdad
     if num < user:                          # Verifica si num es menor a user.
         print("EL NUMERO ES MAS BAJO")
     if num == user:                         # Si el numero es igual a user sale el bucle.
-        break
+        print(f" el numero es {num} adivinaste el numero")
